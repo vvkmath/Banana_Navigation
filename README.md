@@ -14,4 +14,4 @@ To run the DQN model, we need to install Python version 3.6 and activate the vir
 Other dependencies that are relevant to training the agent are installed in Python (using Jupyter notebook ).
 
 # Model Execution and Evaluation
-The code to run the model is included in the Jupyter notebook file titled Banana_Navigation. Ipynb.  The code shows the details of how the DQN is constructed and the various functions that are used to obtain an optimal policy. The performance of the model is depicted as a chart as the agent learns over the course of many episodes. 
+The code to run the model is included in the Jupyter notebook file titled Banana_Navigation_Solution.Ipynb.  The code shows the details of how the DQN is constructed and the various functions that are used to obtain an optimal policy. The performance of the model is depicted as a chart as the agent learns over the course of many episodes. 
